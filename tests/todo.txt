@@ -1,0 +1,15 @@
+Naive Bayes
+Linear Discriminant Analysis
+Logistic Regresssion
+K Nearest Neighbours
+Polynomial Regression
+Random Forest
+XGBoost
+AdaBoost
+
+# Unsupervised Learning
+Apriori
+Genetic Algorithm
+A* Path Finder
+PCA
+Restricted Boltzmann Machine
