@@ -1,2 +1,2 @@
 # scratched-ml
-Machine Learning algorithms from scratch. No reuseable code. Everything from scratch in one module. 
+Machine Learning algorithms from scratch. Everything from scratch in one module. 
