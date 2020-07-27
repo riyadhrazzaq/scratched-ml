@@ -1,15 +1,15 @@
-Naive Bayes
+Naive Bayes x
 Linear Discriminant Analysis
-Logistic Regresssion
+Logistic Regresssion x
 K Nearest Neighbours
 Polynomial Regression
-Random Forest
+Random Forest x
 XGBoost
-AdaBoost
+AdaBoost x
 
 # Unsupervised Learning
 Apriori
-Genetic Algorithm
+Genetic Algorithm x
 A* Path Finder
 PCA
 Restricted Boltzmann Machine
