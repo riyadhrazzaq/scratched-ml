@@ -13,3 +13,4 @@ Machine Learning algorithms from scratch. Everything from scratch in one module.
 9. Decision Tree Regressor
 10. AdaBoost
 11. Non-negative Matrix Factorization
+12. Hierarchical Clustering (agglomerative)
